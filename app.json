@@ -8,27 +8,27 @@
   "env": {
     "API_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "value": "",
+      "value": "39126248",
       "required": true
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": "",
+      "value": "e73470a1ee0f3d85c123375c0dd0ca3d",
       "required": true
     },
     "BOT_TOKEN": {
       "description": "Bot token from @BotFather",
-      "value": "",
+      "value": "8590950162:AAHSHIW3Zdkz0bOouUPn_SaRLZw5iMwMndU",
       "required": true
     },
     "MONGO_DB": {
       "description": "MongoDB connection URL (https://cloud.mongodb.com)",
-      "value": "",
+      "value": "mongodb+srv://uploaderbot:uploaderbot@cluster0.mpesxpw.mongodb.net/?retryWrites=true&w=majority",
       "required": true
     },
     "OWNER_ID": {
       "description": "User ID(s) to be set as bot owner(s), separated by space (e.g., 1234 5678)",
-      "value": "",
+      "value": "8020518977",
       "required": true
     },
     "DB_NAME": {
@@ -43,12 +43,12 @@
     },
     "FORCE_SUB": {
       "description": "Channel ID (with -100 prefix) for forced subscription",
-      "value": "-10012345567",
+      "value": "-1003485356164",
       "required": true
     },
     "LOG_GROUP": {
       "description": "Log channel/group ID (with -100 prefix) where the bot will send logs",
-      "value": "-1001234456",
+      "value": "-103315004704",
       "required": true
     },
     "MASTER_KEY": {
@@ -83,12 +83,12 @@
     },
     "ADMIN_CONTACT": {
       "description": "type admin contact link",
-      "value": "https://t.me/kingofpatal",
+      "value": "https://t.me/Src_deep",
       "required": true
     },
     "JOIN_LINK": {
       "description": "type join channel link which comes on /start",
-      "value": "https://t.me/team_spy_pro",
+      "value": "https://t.me/team_mightyatom",
       "required": true
     }
   },
@@ -98,3 +98,4 @@
   ],
   "stack": "container"
 }
+
